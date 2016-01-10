@@ -1,0 +1,204 @@
+body
+{
+	background-color: #404040;
+	font-family: 'Lora', sans-serif;
+	
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#logo
+{
+	color: #ffffff;
+	margin-top: 20px;
+	font-size: 30px;
+	letter-spacing: 3px;
+	font-weight: 700;
+}
+
+#menu
+{
+	background-color: #303030;
+	margin-top: 20px;
+	color: #ffffff;
+	padding: 10px;
+	border-top: 1px solid #D96675;
+	border-bottom: 1px solid #D96675;
+	
+}
+
+#content
+{
+	background-color: #128870;
+	color: white;
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	
+}
+
+#contentL
+{
+	float:left;
+	padding:20px;
+	text-align:center;
+	border: 2px dotted #000080;
+	width: 300px;
+	
+}
+
+#contentR
+{
+	float:left;
+	padding:20px;
+	font-size: 16px;
+	width: 566px;
+	line-height: 22px;
+}
+
+#footer
+{
+	color: black;
+	text-align: center;
+	padding: 10px;
+	font-size: 12px;
+	
+}
+
+.option
+{
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 18px;
+	padding: 10px;
+	border-right: 2px dotted #D96675;
+	opacity: 0.8;
+}
+
+.option:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+}
+
+.litery
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+#jedynka
+{
+	margin: 20px;
+	width:460px;
+	height: 284px;
+	background-color: #D96675;
+	color: #ffffff;
+	float:left;
+	text-align:center;
+	margin-top:20px;
+	
+}
+#jedynka:hover
+{
+	background-color:#C85564;
+}
+#dwojka
+{
+	margin: 20px;
+	width:460px;
+	height: 284px;
+	text-align:center;
+	color: #ffffff;
+	background-color:#128870;
+	float:left;
+}
+
+#dwojka:hover
+{
+	background-color:#017760;
+}
+
+#trzeci
+{
+	margin:20px;
+	width:960px;
+	height: 184px;
+	background-color:#1761AB;
+	color: #ffffff;
+	text-align:center;
+	
+}
+#trzeci:hover
+{
+	background-color:#0650AA;
+}
+
+#Szkoly
+{
+	background-color: #D96675;
+	color: white;
+	padding: 20px;
+	margin: 20px;
+	width: 900px;
+}
+
+
+#Doswiadczenie
+{
+	background-color: #128870;
+	padding:20px;
+	color: white;
+	margin: 20px;
+	width: 900px;
+	
+}
+
+#Dodatkowe
+{
+	background-color: #1761AB;
+	padding:20px;
+	color: white;
+	margin: 20px;
+	width:900px;
+}
+
+.nauka
+{
+	float:left;
+	text-align:left;
+	margin:20px;
+	
+}
+
+
+#kontakt
+{
+	margin: 20px;
+	width: 960px;
+	background-color:#128870;
+	color:#ffffff;
+	text-align: center;
+	font-size: 18px;
+	line-height: 150%;
+}
+
+#form
+{
+	background-color: #1761AB;
+	color:#ffffff;
+	width:920px;
+	margin:20px;
+	padding:20px;
+	font-size:18px;
+	line-height:150%;
+	
+}
+
